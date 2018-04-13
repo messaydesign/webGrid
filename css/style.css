@@ -8,7 +8,7 @@
     display: table;
     clear: both; }
   .row [class^="col-"] {
-    background-color: wheat;
+    background-color: lightgrey;
     float: left; }
     .row [class^="col-"]:not(:last-child) {
       margin-right: 2rem; }
