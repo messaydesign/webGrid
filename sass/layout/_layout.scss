@@ -1,0 +1,24 @@
+.header {
+    position: relative;
+    width:100vw;
+    height:100px;
+    background-color: black;
+    
+}
+
+.menu {
+    color:white;
+    display: inline-block;
+    float: right;
+    font-family: 'Roboto-Medium', sans-serif;
+    .menu-item {
+        
+
+        li {
+            float:left;
+            text-decoration:none;
+            list-style-type: none;
+            margin-right: 1.8rem
+        }
+    }
+}
